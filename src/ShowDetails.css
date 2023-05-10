@@ -1,0 +1,46 @@
+.show-details {
+    background-color: #f8f9fa;
+    padding: 30px;
+  }
+  
+  .show-details .card {
+    border: none;
+  }
+  
+  .show-details h1 {
+    font-size: 2.5rem;
+  }
+  
+  .show-details .font-weight-bold {
+    width: 100px;
+  }
+  
+  .show-details .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .show-details .btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+  }
+  .card-title {
+    font-size: 2.5rem;
+  }
+  p{
+    font-size: 20px;
+  }
+  
+  button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: skyblue;
+    text-decoration: none;
+  }
+  a:-webkit-any-link {
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
